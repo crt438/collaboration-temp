@@ -8,7 +8,7 @@ Git commands
 - branch: TODO
 - checkout: TODO
 - push: TODO
-- pull: TODO
+- pull: incorporates changes from a remote repository into its current branch
 - merge: TODO
 - fetch: TODO
 - remote: TODO
